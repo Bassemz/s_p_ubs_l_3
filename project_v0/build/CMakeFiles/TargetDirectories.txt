@@ -1,0 +1,4 @@
+/home/bassemz/secure_programming/TP_lab_3/project_v0/build/CMakeFiles/file_copier.dir
+/home/bassemz/secure_programming/TP_lab_3/project_v0/build/CMakeFiles/database.dir
+/home/bassemz/secure_programming/TP_lab_3/project_v0/build/CMakeFiles/edit_cache.dir
+/home/bassemz/secure_programming/TP_lab_3/project_v0/build/CMakeFiles/rebuild_cache.dir

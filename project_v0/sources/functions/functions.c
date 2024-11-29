@@ -48,11 +48,11 @@ int parse_options(int            argc,
 
 int secure_copy_file(const char * in, const char * out) {
     int error = 0;
+    error = wait_confirmation(in, out);
     error     = access(in, R_OK);
     if (!error) {
         error = access(out, W_OK);
         if (!error) {
-            error = wait_confirmation(in, out);
             copy_file(in, out);
         } else {
             fprintf(stderr, "File %s cannot be written.\n", out);

@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/bassemz/secure_programming/TP_lab_3/project_v0/build-S",
+  "command": "/usr/bin/cc  -I/home/bassemz/secure_programming/TP_lab_3/project_v0/sources/functions -std=c11 -Wall -Wextra -Werror -o CMakeFiles/file_copier.dir/sources/main.c.o -c /home/bassemz/secure_programming/TP_lab_3/project_v0/sources/main.c",
+  "file": "/home/bassemz/secure_programming/TP_lab_3/project_v0/sources/main.c",
+  "output": "CMakeFiles/file_copier.dir/sources/main.c.o"
+},
+{
+  "directory": "/home/bassemz/secure_programming/TP_lab_3/project_v0/build-S",
+  "command": "/usr/bin/cc  -I/home/bassemz/secure_programming/TP_lab_3/project_v0/sources/functions -std=c11 -Wall -Wextra -Werror -o CMakeFiles/file_copier.dir/sources/functions/functions.c.o -c /home/bassemz/secure_programming/TP_lab_3/project_v0/sources/functions/functions.c",
+  "file": "/home/bassemz/secure_programming/TP_lab_3/project_v0/sources/functions/functions.c",
+  "output": "CMakeFiles/file_copier.dir/sources/functions/functions.c.o"
+},
+{
+  "directory": "/home/bassemz/secure_programming/TP_lab_3/project_v0/build-S",
+  "command": "/usr/bin/cc  -I/home/bassemz/secure_programming/TP_lab_3/project_v0/sources/functions -std=c11 -Wall -Wextra -Werror -o CMakeFiles/file_copier.dir/sources/functions/hidden_functions/hidden_functions.c.o -c /home/bassemz/secure_programming/TP_lab_3/project_v0/sources/functions/hidden_functions/hidden_functions.c",
+  "file": "/home/bassemz/secure_programming/TP_lab_3/project_v0/sources/functions/hidden_functions/hidden_functions.c",
+  "output": "CMakeFiles/file_copier.dir/sources/functions/hidden_functions/hidden_functions.c.o"
+}
+]
